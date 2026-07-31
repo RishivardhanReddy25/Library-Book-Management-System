@@ -1,0 +1,15 @@
+# Eclipse metadata
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build outputs
+bin/
+build/
+target/
+*.class
+*.war
+
+# Database driver JARs (if stored locally)
+*.jar
