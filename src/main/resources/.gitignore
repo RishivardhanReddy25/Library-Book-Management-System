@@ -1,0 +1,13 @@
+# Compiled class files & build directories
+*.class
+target/
+bin/
+
+# Eclipse IDE metadata files
+.classpath
+.project
+.settings/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
